@@ -56,3 +56,7 @@ expo start
 - The app should appear in the list, and you can tap it to run it on your device.
 
 ## Demo:
+
+
+https://github.com/atmaniali/Whatsapp-UI/assets/35938731/9d77ae34-eba5-4eb9-be6f-f87649272a92
+
